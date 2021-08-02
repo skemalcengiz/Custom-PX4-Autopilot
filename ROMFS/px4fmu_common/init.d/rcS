@@ -535,7 +535,7 @@ else
 			reboot
 		fi
 	fi
-
+	my_module start
 #
 # End of autostart.
 #
