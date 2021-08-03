@@ -1,12 +1,12 @@
 01 Ağustos 2021
-00:30
+
 Said Kemal Cengiz
 
-
-     Bu çalışmada halihazırda var olan "sensor_combined" topicine kendi 	
-    oluşturmuş olduğumuz "my_module" modülü üzerinden subscribe olunarak 	
-ivmeölçer değerleri anlık olarak okunmuş ve yine kendi oluşturmuş olduğumuz 
-		"my_topic" isimli topice publish edilmiştir.			
+Bu çalışmada halihazırda var olan "sensor_combined" topicine kendi oluşturmuş olduğumuz "my_module" modülü üzerinden subscribe olunarak ivmeölçer değerleri anlık olarak okunmuş ve yine kendi oluşturmuş olduğumuz 
+	
+	my_topic
+	
+isimli topice publish edilmiştir.			
 										
 										
   Oluşturmuş olduğumuz modül, PX4 içerisinde var olan modüllerdeki yöntem 	
