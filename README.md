@@ -2,7 +2,7 @@
 00:30
 Said Kemal Cengiz
 
-##############################################################################
+
      Bu çalışmada halihazırda var olan "sensor_combined" topicine kendi 	
     oluşturmuş olduğumuz "my_module" modülü üzerinden subscribe olunarak 	
 ivmeölçer değerleri anlık olarak okunmuş ve yine kendi oluşturmuş olduğumuz 
@@ -40,4 +40,3 @@ ivmeölçer değerleri anlık olarak okunmuş ve yine kendi oluşturmuş olduğu
 			     dosyası içerisindeki 				
 				SDLOG_MODE 2 					
  olarak ayarlanmıştır ki başlangıçtan itibaren SD Karta veri kaydı başlasın.
-##############################################################################
